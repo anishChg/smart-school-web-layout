@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Questrial&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,body{
+    padding:0;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  ul[role="list"],li[role="list"]{
+    list-style: none;
+    padding: 0;
+    margin:0;
+  }
+  
+p,h1,h2,h3,h4,h5{
+    padding: 0;
+    margin: 0;
+}
+  .container{
+   max-width: 95% !important;
+   margin: 0px auto;
+
+  }
+
+
+
+  
+  $text-red:#BC141A;
+  $text-blue:#343A90;
+  $text-darkblue:#0088CC;
+  $text-skyblue:#01BEDE;
+  $text-yellow:#FFD200;
+  $text-grey:#505050;
+
